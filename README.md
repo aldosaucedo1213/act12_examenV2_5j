@@ -1,9 +1,9 @@
 # act12_examenV2_5j
-- ![image](https://github.com/user-attachments/assets/c2877cb2-9a45-4ea6-86a5-f9dd9a5ae751)
-- ![image](https://github.com/user-attachments/assets/08306011-b03e-4b42-9cfb-78963c65ebac)
-- ![image](https://github.com/user-attachments/assets/b4c650f7-60bb-44e4-96e5-313d347e4320)
+- ![image](https://github.com/user-attachments/assets/18d69dbf-154d-452f-a2bc-41f306b8e7e7)
+- ![image](https://github.com/user-attachments/assets/baab103a-ec3d-416d-b89a-98bd0b794048)
+- ![image](https://github.com/user-attachments/assets/20158345-0feb-477b-b182-cf1069cbb8f6)
    ## RESULTADO
-  - ![image](https://github.com/user-attachments/assets/b9066a63-3120-4bed-9573-2357e2149d9c)
+  - ![image](https://github.com/user-attachments/assets/7bd61ea1-043d-47fe-b8b6-a16b492b9e2e)
 
 
 
