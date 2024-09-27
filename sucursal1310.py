@@ -1,45 +1,56 @@
-print(" sucursal Aldo saucedo 22308051281310")
-# zona de clase 
-class Datos1310:
-    # el constructor
-    def __init__(self,horario,horario2):
-        self.horario=horario
-        self.horario2=horario2
-    def mostrar_Datos(self):
-        print(f" horario: {self.horario} va, horario {self.horario2}")
-    def mi_lista(self):
-        celulares1310=["numero", "email", "nombre"]
-        print (celulares1310)
-        for cel in celulares1310:
-            print(cel)
-    def diccionario(self):
-        slo =	{
-    "ubicacion": "calle pistache",
-    "horario": "de 10am a 2 pm",
-    "telefono": 65645609
+class proveedor1310:
+
+    def Diccionario_camionero1310(self):
+        print("Tabla de camionero: \n")
+        Contenido1 =	{
+    "dni -> ": "24576",
+    "Nombre -> ": "ramon juarez",
+    "Direccion -> ": "Calle pistache ",
+    "Num. telefono -> ": 6564876232,
+    "Correo -> ": "ramon1310@gmail.com",
+    "salario -> ": 2312,
+    "Horario -> ": "10:30 am / 2:00 pm",
 }
-        print(slo)
-        for x,y in slo.items():
-            print(x,y) 
-    def mi_set(self):
-        tamales1310 = {"tamal de rojo", "tamal de verde", "tamal de rajas"}
-        print(tamales1310)
-        for x in tamales1310:
-            print(x) 
-    def mi_tupla(self):
-        nombre1310 = (" cantidad comprada:22 kilos de carne", "entrega rapida","pag de 10,000")
-        print(nombre1310)
-        for p in nombre1310:
-            print(p) 
-# creacion de objeto
-info=Datos1310(10,2)
-# utilizando el obj.
-info.mostrar_Datos()
-print(" Lista de usuarios Aldo saucedo")
-info.mi_lista()
-print(" Lista de ubicacion")
-info.diccionario()
-print(" Lista menu")
-info.mi_set()
-print(" Lista de  probedor  ")
-info.mi_tupla()
+        print(Contenido1)
+        for A,B in Contenido1.items():
+            print(A,B)
+
+    def Diccionario_paquetes1310(self):
+        print("Tabla de paquetes: \n")
+        Contenido2 =	{
+    "codigo de paquete: -> ": 23121,
+    "descripcion -> ": "fragil",
+    "destinatario -> ": "bernardo",
+    "Num. telefono -> ": 656348762,
+    "Correo -> ": "benardo@gmail.com",
+    "Domicilio -> ": "Calle paseos de alba ",
+    "Forma de pago -> ": "Tarjeta",
+}
+        print(Contenido2)
+        for C,D in Contenido2.items():
+            print(C,D)
+
+    def Diccionario_camiones1310(self):
+        print("Tabla de camiones: \n")
+        Contenido3 =	{
+    "matricula -> ": 2230889,
+    "tipo de camion-> ": "carga",
+    "Numero de camion -> ": 65,
+    "modelo-> ": "2024",
+   
+}
+        print(Contenido3)
+        for E,F in Contenido3.items():
+            print(E,F)
+   
+       
+objeto = proveedor1310()
+print("")
+objeto.Diccionario_camionero1310()
+print("")
+objeto.Diccionario_paquetes1310()
+print("")
+objeto.Diccionario_camiones1310()
+print("")
+
+
